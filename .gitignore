@@ -1,0 +1,111 @@
+# Environment Configuration
+.env
+.env.local
+.env.*.local
+
+# Database Configuration Files (contains sensitive credentials)
+includes/config.php
+includes/email_config.php
+
+# Composer
+vendor/
+composer.phar
+composer.lock
+
+# Logs
+*.log
+error_log.txt
+debug.log
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.buildpath
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Cache
+cache/
+*.cache
+
+# Uploaded Files
+img/uploads/*
+!img/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# User Profile Images
+img/profiles/*
+!img/profiles/.gitkeep
+
+# Database Backups
+*.sql
+*.sql.gz
+*.sql.zip
+backup/
+backups/
+database_backup*.sql
+
+# Node Modules (if you add any frontend build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build Files
+dist/
+build/
+
+# Session Files
+sessions/
+
+# Testing
+phpunit.xml
+.phpunit.result.cache
+tests/_output/
+
+# Generated PDFs and Reports
+reports/*.pdf
+reports/*.csv
+
+# Sensitive Information
+*.key
+*.pem
+*.cert
+secrets.php
+api_keys.php
+
+# Admin Setup Scripts (remove after initial setup)
+create_admin.php
+check_admin.php
+create_contact_table.php
+create_orders_table_now.php
+setup_orders.php
+
+# Email Configuration
+email_config.php
+
+# Vimeo and API tokens
+api_tokens.php

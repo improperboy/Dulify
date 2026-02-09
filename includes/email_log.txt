@@ -1,0 +1,328 @@
+
+
+2025-06-12 08:30:02
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=0a891d1d3e44ee5ce2d19a1453ea14c6736e49973604ba373573330e56294180
+Message: <html><body><h2>Welcome to Dulify!</h2><p>Hello omjij,</p><p>Thank you for registering with Dulify. Please click the button below to verify your email address:</p><p><a href='http://localhost/dulify/verify_email.php?token=0a891d1d3e44ee5ce2d19a1453ea14c6736e49973604ba373573330e56294180' style='display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;'>Verify Email Address</a></p><p>If the button above doesn't work, copy and paste the following link into your browser:</p><p>http://localhost/dulify/verify_email.php?token=0a891d1d3e44ee5ce2d19a1453ea14c6736e49973604ba373573330e56294180</p><p>This link will expire in 24 hours.</p><p>If you did not create an account, please ignore this email.</p><p>Regards,<br>The Dulify Team</p></body></html>
+----------------------------------------
+
+
+2025-06-12 08:37:49
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=491c478e27318ef2ce37fc5a7015109505a82f7632d3febc870b459851797e44
+Message: <html><body><h2>Welcome to Dulify!</h2><p>Hello ansh,</p><p>Thank you for registering with Dulify. Please click the button below to verify your email address:</p><p><a href='http://localhost/dulify/verify_email.php?token=491c478e27318ef2ce37fc5a7015109505a82f7632d3febc870b459851797e44' style='display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;'>Verify Email Address</a></p><p>If the button above doesn't work, copy and paste the following link into your browser:</p><p>http://localhost/dulify/verify_email.php?token=491c478e27318ef2ce37fc5a7015109505a82f7632d3febc870b459851797e44</p><p>This link will expire in 24 hours.</p><p>If you did not create an account, please ignore this email.</p><p>Regards,<br>The Dulify Team</p></body></html>
+----------------------------------------
+
+
+2025-06-12 08:43:24
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=0cada1a5d4675e848cb1fd927b8daa10ff3a3e9bf80d33a28e8ebda7d0a8d5cf
+Message: <html><body><h2>Welcome to Dulify!</h2><p>Hello ansh,</p><p>Thank you for registering with Dulify. Please click the button below to verify your email address:</p><p><a href='http://localhost/dulify/verify_email.php?token=0cada1a5d4675e848cb1fd927b8daa10ff3a3e9bf80d33a28e8ebda7d0a8d5cf' style='display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;'>Verify Email Address</a></p><p>If the button above doesn't work, copy and paste the following link into your browser:</p><p>http://localhost/dulify/verify_email.php?token=0cada1a5d4675e848cb1fd927b8daa10ff3a3e9bf80d33a28e8ebda7d0a8d5cf</p><p>This link will expire in 24 hours.</p><p>If you did not create an account, please ignore this email.</p><p>Regards,<br>The Dulify Team</p></body></html>
+----------------------------------------
+
+
+2025-06-12 08:56:04
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=88f962e8fae34ed1767b0c3eb6a859d13afd77768db2fba755a2ecac083d7abd
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-12 08:57:03
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=1584608b023eedecbd51134d90594c7ce0c12e93f2dbf16ea9e75b15f013f97f
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-12 08:58:40
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Verification URL: http://localhost/dulify/verify_email.php?token=362d608def176aa22c5c89e8940c1519e5d1dedbb30597ec2257c5c360d74f02
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-12 09:54:32
+To: divyanshuomar856@gmail.com
+Subject: RE: Contact Form Inquiry
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-12 11:05:12
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-12 11:57:30
+To: divyanshuomar856@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 04:55:20
+To: divyanshuomar856@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 05:14:10
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 05:15:46
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 05:40:23
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 05:41:51
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 05:42:38
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:16:25
+To: omjivaishy8811@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:17:21
+To: divyanshuomar856@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:17:25
+To: omjivaishy9170@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:18:53
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:19:57
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-06-13 06:20:45
+To: omjivaishy8811@gmail.com
+Subject: Reset Your Password - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-03 05:51:23
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-03 05:52:02
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-08 02:58:45
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-08 02:59:45
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 14:26:42
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 14:27:24
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 16:04:05
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 16:05:33
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 16:05:40
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 16:14:35
+To: improperboygaming@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-18 17:04:16
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-19 09:36:37
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-19 09:37:00
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-19 09:37:35
+To: omjivaishy8811@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 06:39:46
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 06:41:42
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 06:42:04
+To: omjivaishy9170@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 07:44:08
+To: divyanshu.2428cse20@kiet.edu
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 07:45:38
+To: divyanshu.2428cse20@kiet.edu
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-21 08:10:01
+To: divyanshuomar856@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-23 10:57:21
+To: vkushagra54@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-23 11:17:20
+To: example@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-23 14:07:49
+To: a@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2025-07-23 14:08:20
+To: a@gmail.com
+Subject: Verify Your Email Address - Dulify
+Email sent successfully using PHPMailer
+----------------------------------------
+
+
+2026-01-21 22:27:48
+To: kyash4634@gmail.com
+Subject: Verify Your Email Address - Dulify
+PHPMailer Error: SMTP Error: Could not authenticate.
+----------------------------------------
