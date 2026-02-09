@@ -134,22 +134,6 @@ define('SMTP_FROM_NAME', 'Dulify');
 2. Generate an app-specific password
 3. Use the app password in the configuration
 
-### 6. Create Admin Account
-
-Run the admin creation script (one-time setup):
-
-```bash
-php create_admin.php
-```
-
-Or access it via browser: `http://localhost/Dulify/create_admin.php`
-
-After creating the admin account, **delete or secure** the following setup files:
-- `create_admin.php`
-- `check_admin.php`
-- `create_contact_table.php`
-- `create_orders_table_now.php`
-
 ### 7. Set Permissions
 
 ```bash
